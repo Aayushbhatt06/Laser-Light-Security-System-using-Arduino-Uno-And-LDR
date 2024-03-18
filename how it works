@@ -1,0 +1,4 @@
+Hello Everyone,
+I am Aayush Bhatt and i am sharing my project of Laser light security system using LDR and Arduino UNO:-
+  LDR (Light Dependent Resistor) is the sensor that changes its resistance as the intensity on light on it changes.
+  We are going to program arduino to measure the change in intensity on light and if the intensity decreases it should trigger alarm.
